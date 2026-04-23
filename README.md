@@ -9,8 +9,9 @@ This project is a Power BI Sales Dashboard created to analyze and visualize busi
  Dashboard Preview
 
 [Dashboard]
-""C:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2026-04-23 185711.png"
-""C:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2026-04-23 185738.png"
+
+"C:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2026-04-23 185711.png"
+"C:\Users\prema\OneDrive\Pictures\Screenshots\Screenshot 2026-04-23 185738.png"
 ---
 
   Key Insights
